@@ -1,4 +1,4 @@
-FROM quay.io/quay/ubuntu:latest
+FROM ubuntu:latest
 
 USER root
 EXPOSE 8080
